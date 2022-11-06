@@ -21,12 +21,10 @@ pip install requests
 
 linux:
 
-python3 num.py
+python3 Validnum.py
 
 for windows:
 
-python
-
-python num.py
+python Validnum.py
 
 ```
